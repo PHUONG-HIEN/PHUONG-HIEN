@@ -30,7 +30,7 @@
     <!-- ======= Hero Section ======= -->
     <div id="hero" class="">
         <div class="text">
-            <h1>Đỗ Phương Hiền</h1>
+            <h1>Do Phuong Hien</h1>
             <p>I'm a <span>Lecturer</span></p>
         </div>
     </div><!-- End Hero -->
@@ -46,9 +46,6 @@
                 </div>
         
                 <div class="row">
-                    <div class="col-sm-4"></div>
-                    <div class="col-sm-8">
-                        <h3>Lecturer++</h3>
                         <p class="italic">
                             Beyond the classroom, I am an avid programmer, collaborating with a talented team at KDT to
                             innovate and create applications and websites related to education, professions, and
