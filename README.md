@@ -24,7 +24,7 @@
     <!-- ======= Hero Section ======= -->
     <div id="hero" class="">
         <div class="text">
-            <h1>Vũ Đình Bảo</h1>
+            <h1>Đỗ Phương Hiền</h1>
             <p>I'm a <span>Lecturer</span></p>
         </div>
     </div><!-- End Hero -->
