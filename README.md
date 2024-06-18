@@ -3,7 +3,7 @@
 <body>
     <div id="sidebar">
         <div align="center">
-            <img src="img/profile-img.png" alt="Vu Dinh Bao" class="profile-img">
+            <img src="img/profile-img.png" alt="Do Phuong Hien" class="profile-img">
         </div>
         <div align="center"> 
   <a href="mailto:trinhthanh2712.work@gmail.com">
