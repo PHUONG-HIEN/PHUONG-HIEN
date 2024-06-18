@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kmin Portfolio</title>
+    <title>DO PHUONG HIEN PORTFOLIO</title>
     <Link rel="stylesheet" href="style.css">
     <Link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
     <Link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
@@ -13,7 +13,7 @@
     <div id="sidebar">
         <div class="profile">
             <img src="img/profile-img.png" alt="Vu Dinh Bao" class="profile-img">
-            <h1>VU DINH BAO</h1>
+            <h1>DO PHUONG HIEN</h1>
             <a href="https://kmin.edu.vn" target="_blank">@KminAcademy</a>
             <div class="social-links">
                 <a href="https://fb.com/kmin.academy" class="facebook"><i class="bi bi-facebook"></i></a>
