@@ -18,7 +18,7 @@
             </div>
             <div class="navbar">
                 <ul>
-                    <li><a href="#hero" class="nav-link scrollto active"><i class="bi bi-house-door"></i><span>Home</span></a></li>
+                    <li><a href="#hero" class="nav-link scrollto active" color='yellow'><i class="bi bi-house-door"></i><span>Home</span></a></li>
                     <li><a href="#about" class="nav-link scrollto"><i class="bi bi-person"></i> <span>About</span></a></li>
                     <li><a href="#resume" class="nav-link scrollto"><i class="bi bi-file-earmark-person"></i></i><span>Resume</span></a></li>
                     <li><a href="#portfolio" class="nav-link scrollto"><i class="bi bi-kanban"></i><span>Portfolio</span></a></li>
