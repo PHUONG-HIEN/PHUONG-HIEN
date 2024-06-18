@@ -1,22 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&random=false&width=500&height=70&lines=Hi+There+%F0%9F%91%8B;I'm+PHUONG+HIEN+!" /></h1>
-    <Link rel="stylesheet" href="style.css">
-    <Link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
-    <Link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
-    <Link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@5.3.2/font/bootstrap-icons.css">
-</head>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&random=false&width=500&height=70&lines=HELLO+%F0%9F%91%8B;I'm+PHUONG+HIEN+!" /></h1>
 <body>
     <div id="sidebar">
         <div class="profile">
             <img src="img/profile-img.png" alt="Vu Dinh Bao" class="profile-img">
             <h1>DO PHUONG HIEN</h1>
-            <a href="https://kmin.edu.vn" target="_blank">@KminAcademy</a>
-            <div class="social-links">
-                <a href="https://fb.com/kmin.academy" class="facebook"><i class="bi bi-facebook"></i></a>
-                <a href="https://www.youtube.com/@HocLapTrinhTrongHanhPhuc" class="youtube"><i class="bi bi-youtube"></i></a>
-                <a href="https://discord.gg/ch4NxfjegQ" class="discord"><i class="bi bi-discord"></i></a>
-                <a href="https://www.linkedin.com/company/kmin-academy/" class="linkedin"><i class="bi bi-linkedin"></i></a>
-            </div>
         </div>
         <div id="sidebar">
             <div class="profile">
