@@ -6,16 +6,12 @@
             <img src="img/profile-img.png" alt="Do Phuong Hien" class="profile-img">
         </div>
         <div align="center"> 
-  <a href="mailto:trinhthanh2712.work@gmail.com">
+  <a href="mailto:phuonghiendo193@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=yellow" />
   </a>
         </div>
             <h1>DO PHUONG HIEN</h1>
         </div>
-        <div id="sidebar">
-            <div class="profile">
-                ...
-            </div>
             <div class="navbar">
                 <ul>
                     <li><a href="#hero" class="nav-link scrollto active" color='yellow'><i class="bi bi-house-door"></i><span>Home</span></a></li>
@@ -31,7 +27,12 @@
     <div id="hero" class="">
         <div class="text">
             <h1>Do Phuong Hien</h1>
-            <p>I'm a <span>Lecturer</span></p>
+        <br/>
+        <div>
+                🌍 I'm based in *Vietnamese*
+                🔭 I’m currently studying on *DUT*
+                ⚡ Fun fact *The visual areas of the brain are in the back*
+        </div>
         </div>
     </div><!-- End Hero -->
     <div id="main">
