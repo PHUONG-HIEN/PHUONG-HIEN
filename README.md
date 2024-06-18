@@ -2,7 +2,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&random=false&width=500&height=70&lines=HELLO+%F0%9F%91%8B;I'm+PHUONG+HIEN+!" /></h1>
 <body>
     <div id="sidebar">
-        <div class="profile">
+        <div align="center">
             <img src="img/profile-img.png" alt="Vu Dinh Bao" class="profile-img">
         <div align="center"> 
   <a href="mailto:trinhthanh2712.work@gmail.com">
