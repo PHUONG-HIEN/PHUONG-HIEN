@@ -39,7 +39,7 @@
         <div id="about" class="about">
             <div class="container">
                 <div>
-                    <h2> color = 'yellow' <About> </h2>
+                    <h2> About </h2>
                     <p>I am a passionate IT educator. My career centers on teaching students majoring in Web
                         Development, Data Science, and Information Systems at various educational institutions. My
                         guiding philosophy is that a teacher's happiness lies in the success of their students.</p>
