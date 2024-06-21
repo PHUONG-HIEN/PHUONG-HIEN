@@ -3,7 +3,7 @@
 <body>
         <div id="sidebar">
         <div align="center">
-            <img src="https://collection.cloudinary.com/dqifqi0gz/7854c9a146537bdeae12d9f768c89252" alt="Do Phuong Hien" class="profile-img">
+            <img src="https://res.cloudinary.com/dqifqi0gz/image/upload/v1718979536/IMG_9897_sfxpbt.heic"/>
         </div>
         <div align="center"> 
   <a href="mailto:phuonghiendo193@gmail.com">
@@ -51,23 +51,15 @@
                             and enriches my beloved classroom lectures.
                         </p>
                         <div class="row">
-                            <div class="col-sm-6">
-                                | Cột 1 Hàng 1 | Cột 2 | Cột 3| Cột 4 |
-                                |--------------|-------|------|-------|
-                                | Hàng 2 | 2 x 1 | 2 x 2 | 2 x 3 | 2 x 4 |
-                                | Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
-                                | Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
                                 <ul>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>03 August 2003</span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+84 935 038943</span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Da Nang,Vietnam</span></li>
                                 </ul>
-                            </div>
-                            <div class="col-sm-6">
                                 <ul>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>3x</span></li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span></li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong><span>vdbao@kmin.edu.vn</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>21</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong><span>phuonghiendo193@gmail.com</span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>FB:</strong><span>fb.com/vudinhbao.kmin</span></li>
                                 </ul>
                             </div>
