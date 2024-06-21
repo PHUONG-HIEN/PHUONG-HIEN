@@ -3,7 +3,8 @@
 <body>
         <div id="sidebar">
         <div align="center">
-            <img src="https://res.cloudinary.com/dqifqi0gz/image/upload/v1718982370/IMG_9897_1_jybvrw.png"/></div>
+            <img src="https://res.cloudinary.com/dqifqi0gz/image/upload/v1718987747/cONTACT_g5d0t3.png" /> 
+        </div>
         <div align="center"> 
   <a href="mailto:phuonghiendo193@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=yellow" />
@@ -12,6 +13,7 @@
             <h1>DO PHUONG HIEN</h1>
         </div>
             <div class="navbar">
+     <strong>MENU</strong>
                 <ul>
                     <li><a href="#hero" class="nav-link scrollto active" color='yellow'><i class="bi bi-house-door"></i><span>Home</span></a></li>
                     <li><a href="#about" class="nav-link scrollto"><i class="bi bi-person"></i> <span>About</span></a></li>
@@ -27,8 +29,8 @@
         <div class="text">
             <h1>Do Phuong Hien</h1>
         <br>
-                🌍 I'm a **Vietnamese** <br>
-                🔭 I’m currently studying on **UEH University** <br>
+                🌍 I'm a <strong>Vietnamese</strong> <br>
+                🔭 I’m currently studying on <strong>UEH University</strong> <br>
                 ⚡ Fun fact *The visual areas of the brain are in the back* <br>
         </div>
     </div><!-- End Hero -->
@@ -38,16 +40,12 @@
             <div class="container">
                 <div>
                     <h2> About </h2>
-                    <p>I am a passionate IT educator. My career centers on teaching students majoring in Web
-                        Development, Data Science, and Information Systems at various educational institutions. My
-                        guiding philosophy is that a teacher's happiness lies in the success of their students.</p>
+                    <p>I am a student about to graduate with a bachelor's degree in business administration at Ho Chi Minh City University of Economics, majoring                          in Operations Management. My educational journey has equipped me with an understanding of business principles and a diverse set of skills                           relevant to the modern business environment. </p>
                 </div>
                 <div class="">
                         <p class="italic">
-                            Beyond the classroom, I am an avid programmer, collaborating with a talented team at KDT to
-                            innovate and create applications and websites related to education, professions, and
-                            non-profit initiatives. This programming work enhances my practical problem-solving skills
-                            and enriches my beloved classroom lectures.
+                            Throughout my studies, I honed my skills in areas such as Python, SQL, data analysis, and project management. These technical skills are complemented by my practical experience in various academic projects where I applied theoretical knowledge to real-life situations, delivering successful results and innovative solutions.
+In addition to my academic achievements, I also have practical experience through the part-time jobs I have had such as sales, customer service and social media management.
                         </p>
                         <div class="row">
                                 <ul>
@@ -64,16 +62,11 @@
                             </div>
                         </div>
                         <p>
-                            My overarching mission is to serve education. I aspire to contribute to the development of
-                            an advanced education system in Vietnam, where both teachers and students embark on a joyful
-                            journey of knowledge exploration. I actively work toward realizing this dream.
+                            My goal is to contribute to a forward-thinking company where I can apply my skills, continue to learn, and grow professionally.
                         </p>
                     </div>
                 </div>
-        
-            </div>
-        </div><!-- End About Section -->
-        <img src="img/cover24.png" alt="Kmin Academy" width="95%"
+        <img src="https://res.cloudinary.com/dqifqi0gz/image/upload/v1718769547/%C4%90%E1%BB%96_PH%C6%AF%C6%A0NG_HI%E1%BB%80N_ef5baf.svg" width="95%"
             style="border: solid #fcbf16 9px; display: block; margin: 0 auto">
         <!-- ======= Facts Section ======= -->
         <div id="facts">
