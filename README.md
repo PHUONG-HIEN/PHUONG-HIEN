@@ -31,7 +31,6 @@
         <br>
                 🌍 I'm a <strong>Vietnamese</strong> <br>
                 🔭 I’m currently studying on <strong>UEH University</strong> <br>
-                ⚡ Fun fact *The visual areas of the brain are in the back* <br>
         </div>
     </div><!-- End Hero -->
     <div id="main">
@@ -55,9 +54,8 @@ In addition to my academic achievements, I also have practical experience throug
                                 </ul>
                                 <ul>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>21</span></li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor</span></li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong><span>phuonghiendo193@gmail.com</span></li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>FB:</strong><span>https://bit.ly/PhuongHien</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong><span> phuonghiendo193@gmail.com</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>FB:</strong><span> https://bit.ly/PhuongHien</span></li>
                                 </ul>
                             </div>
                         </div>
@@ -66,12 +64,8 @@ In addition to my academic achievements, I also have practical experience throug
                         </p>
                     </div>
                 </div>
-        <img src="https://res.cloudinary.com/dqifqi0gz/image/upload/v1718769547/%C4%90%E1%BB%96_PH%C6%AF%C6%A0NG_HI%E1%BB%80N_ef5baf.svg" width="95%"
+        <img src="https://res.cloudinary.com/dqifqi0gz/image/upload/v1718990628/cONTACT_1_yeszy2.png" width="95%"
             style="border: solid #fcbf16 9px; display: block; margin: 0 auto">
-        <!-- ======= Facts Section ======= -->
-        <div id="facts">
-            Facts
-        </div><!-- End Facts Section -->
     </div>
     <Link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
 </body>
