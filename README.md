@@ -3,8 +3,7 @@
 <body>
         <div id="sidebar">
         <div align="center">
-            <img src="https://res.cloudinary.com/dqifqi0gz/image/upload/v1718979536/IMG_9897_sfxpbt.heic"/>
-        </div>
+            <img src="https://res.cloudinary.com/dqifqi0gz/image/upload/v1718982370/IMG_9897_1_jybvrw.png"/></div>
         <div align="center"> 
   <a href="mailto:phuonghiendo193@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=yellow" />
@@ -60,7 +59,7 @@
                                     <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>21</span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor</span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong><span>phuonghiendo193@gmail.com</span></li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>FB:</strong><span>fb.com/vudinhbao.kmin</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>FB:</strong><span>https://bit.ly/PhuongHien</span></li>
                                 </ul>
                             </div>
                         </div>
@@ -76,7 +75,6 @@
         </div><!-- End About Section -->
         <img src="img/cover24.png" alt="Kmin Academy" width="95%"
             style="border: solid #fcbf16 9px; display: block; margin: 0 auto">
-
         <!-- ======= Facts Section ======= -->
         <div id="facts">
             Facts
