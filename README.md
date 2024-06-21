@@ -43,8 +43,7 @@
                         Development, Data Science, and Information Systems at various educational institutions. My
                         guiding philosophy is that a teacher's happiness lies in the success of their students.</p>
                 </div>
-        
-                <div class="row">
+                <div class="">
                         <p class="italic">
                             Beyond the classroom, I am an avid programmer, collaborating with a talented team at KDT to
                             innovate and create applications and websites related to education, professions, and
@@ -53,6 +52,11 @@
                         </p>
                         <div class="row">
                             <div class="col-sm-6">
+                                | Cột 1 Hàng 1 | Cột 2 | Cột 3| Cột 4 |
+                                |--------------|-------|------|-------|
+                                | Hàng 2 | 2 x 1 | 2 x 2 | 2 x 3 | 2 x 4 |
+                                | Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
+                                | Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
                                 <ul>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>03 August 2003</span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+84 935 038943</span></li>
