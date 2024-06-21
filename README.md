@@ -1,9 +1,9 @@
 <h1 align="center">
         <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&random=false&width=500&height=70&lines=HELLO+%F0%9F%91%8B;I'm+PHUONG+HIEN+!" /></h1>
 <body>
-    <div id="sidebar">
+        <div id="sidebar">
         <div align="center">
-            <img src="img/profile-img.png" alt="Do Phuong Hien" class="profile-img">
+            <img src="https://collection.cloudinary.com/dqifqi0gz/7854c9a146537bdeae12d9f768c89252" alt="Do Phuong Hien" class="profile-img">
         </div>
         <div align="center"> 
   <a href="mailto:phuonghiendo193@gmail.com">
@@ -27,12 +27,10 @@
     <div id="hero" class="">
         <div class="text">
             <h1>Do Phuong Hien</h1>
-        <br/>
-        <div>
-                🌍 I'm based in *Vietnamese*
-                🔭 I’m currently studying on *DUT*
-                ⚡ Fun fact *The visual areas of the brain are in the back*
-        </div>
+        <br>
+                🌍 I'm a **Vietnamese** <br>
+                🔭 I’m currently studying on **UEH University** <br>
+                ⚡ Fun fact *The visual areas of the brain are in the back* <br>
         </div>
     </div><!-- End Hero -->
     <div id="main">
@@ -56,10 +54,9 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <ul>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>01 October19xx</span></li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong><span>kmin.edu.vn</span></li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+84 339 048233</span></li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Ho Chi Minh,Vietnam</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>03 August 2003</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+84 935 038943</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Da Nang,Vietnam</span></li>
                                 </ul>
                             </div>
                             <div class="col-sm-6">
@@ -92,5 +89,3 @@
     <Link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
 </body>
 </html>
-<!--thẻ <i dùng để chèn icon-->
-    <!--bootstrapcdn để lấy link css của bootstrap-->
