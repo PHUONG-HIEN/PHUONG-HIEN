@@ -29,7 +29,7 @@
         <div class="text">
             <h1>Do Phuong Hien</h1>
         <br>
-                🌍 I'm a <strong>Vietnamese</strong> <br>
+                🌍 I'm <strong>Vietnamese</strong> <br>
                 🔭 I’m currently studying on <strong>UEH University</strong> <br>
         </div>
     </div><!-- End Hero -->
